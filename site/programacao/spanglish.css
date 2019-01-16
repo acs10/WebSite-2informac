@@ -1,0 +1,45 @@
+ .table3
+      {
+       position: absolute;
+    left: 222px;
+    top: 299px;
+      } 
+	  .p1 {
+	  position: absolute;
+    left: 270px;
+    top: 310px;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:24px;
+    color:#021D5E;
+	}
+	 .p2 {
+	  position: absolute;
+    left: 911px;
+    top: 847px;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:17px;
+    color:white;
+	}
+	 .p3 {
+	  position: absolute;
+    left: 370px;
+    top: 1030px;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:24px;
+    color:#021D5E;
+h1 {
+    position: absolute;
+    left: 589px;
+    top: 234px;
+    font-size: 220%;
+color: black;
+
+font-family: arial;
+}
+.hr1{
+	 
+	  position: absolute;
+    left: 331px;
+    top: 847px;
+	 
+	}

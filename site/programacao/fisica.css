@@ -1,0 +1,31 @@
+ .table3
+      {
+       position: absolute;
+    left: 222px;
+    top: 299px;
+      } 
+	  .p1 {
+	  position: absolute;
+    left: 270px;
+    top: 310px;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:24px;
+    color:#021D5E;
+	}
+	 .p2 {
+	  position: absolute;
+    left: 791px;
+    top: 377px;
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:17px;
+    color:white;
+	}
+h1 {
+    position: absolute;
+    left: 549px;
+    top: 234px;
+    font-size: 220%;
+color: black;
+
+font-family: arial;
+}
